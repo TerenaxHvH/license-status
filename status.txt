@@ -1,4 +1,4 @@
-Ali:ACTIVE
+Ali:REVOKED
 Wiccos:ACTIVE
 Numerouno97:ACTIVE
 Mangustas:ACTIVE
